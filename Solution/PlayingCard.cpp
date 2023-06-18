@@ -1,8 +1,3 @@
-/*
-Name:		Muhammad Daniyal Mateen
-Roll#:		BITF19A517
-HW:			HW3
-*/
 #include "PlayingCard.h"
 #include "ConsoleFunctions.h"
 
