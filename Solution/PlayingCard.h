@@ -1,8 +1,3 @@
-/*
-Name:		Muhammad Daniyal Mateen
-Roll#:		BITF19A517
-HW:			HW3
-*/
 #pragma once
 #include "ConsoleFunctions.h"
 #include<iostream>
@@ -14,9 +9,9 @@ using namespace std;
 class PlayingCard
 {
 private:
-	int rank; //integer 1 – 13
-	int suit; //integer 0 – 3
-	char color; // red or black - ‘b’ for black , ‘r’ for red
+	int rank; //integer 1 â€“ 13
+	int suit; //integer 0 â€“ 3
+	char color; // red or black - â€˜bâ€™ for black , â€˜râ€™ for red
 	bool faceUp; //tells if a card is face up or not
 	bool top; //tells if a card is on top of a pile
 	
