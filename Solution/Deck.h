@@ -1,8 +1,4 @@
-/*
-Name:		Muhammad Daniyal Mateen
-Roll#:		BITF19A517
-HW:			HW3
-*/
+
 #pragma once
 #include"PlayingCard.h"
 class Deck
